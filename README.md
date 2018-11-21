@@ -6,7 +6,7 @@ Talking about technonlogy and a list of sci-fi movies
 
 - Open your terminal
 
-- Create your base folder structure (css,images, js)
+- Create your base folder structure (images, js)
 
 ## Live Link
 - https://marlon070996ford.github.io/website.html
